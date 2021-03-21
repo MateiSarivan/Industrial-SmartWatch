@@ -1,1 +1,1 @@
-# Industrial-SmatWatch
+# Industrial-SmartWatch
